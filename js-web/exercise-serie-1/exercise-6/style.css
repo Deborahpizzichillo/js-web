@@ -1,0 +1,13 @@
+/*Use the .scss file instead!*/
+#deck{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+  }
+  
+  .centering{
+    display: flex;
+    justify-content: center;
+}

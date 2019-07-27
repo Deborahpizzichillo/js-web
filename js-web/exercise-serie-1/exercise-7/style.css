@@ -1,0 +1,12 @@
+/*Use the .scss file instead!*/
+
+button {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: black;
+	background-color: aqua;
+	border-radius: 1em;
+	font-size: 1.5em;
+	padding: 0 0.75em;
+  }

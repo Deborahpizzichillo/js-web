@@ -1,0 +1,12 @@
+//Write your scss here and then compile it to "style.css"...
+
+body 
+    text-align: center 
+    
+    /* transform: translateY(15px); */
+.button 
+	&:active 
+		transform: scale(0.9) 
+
+
+

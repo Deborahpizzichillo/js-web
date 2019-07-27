@@ -1,0 +1,11 @@
+/*Use the .scss file instead!*/
+
+body{
+    text-align: center;
+}
+
+.button:active {
+/* transform: translateY(15px); */
+transform: scale(0.9);
+}
+

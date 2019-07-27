@@ -1,0 +1,12 @@
+/*Use the .scss file instead!*/
+.mySlides {
+    display: none;
+  }
+  
+  .d-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /*# sourceMappingURL=style.css.map */
